@@ -4,27 +4,6 @@
 💻 **Multi-Language Developer** | Building real solutions with modern tech  
 📍 Based in Denmark
 
-## 🚀 What I'm Building
-
-### 📱 StudyFlow - Smart Study Planner
-A comprehensive web app helping students manage their academic workload  
-→ *Planning public release after beta testing*
-
-### 🤖 Discord Project Manager Bot
-Python bot for student team coordination - task tracking, meeting scheduling, deadline reminders  
-`Python` `discord.py` `PostgreSQL`  
-→ *Solving real organization challenges I experienced in group projects*
-
-### 💼 Portfolio Website
-Showcasing my projects and development journey  
-→ *Coming soon*
-
-## 🎓 Academic Focus (Semester 2)
-- **Databases** - SQL, PostgreSQL, data modeling, normalization, query optimization
-- **Advanced Java** - OOP, design patterns, software architecture  
-- **Software Engineering** - SDLC, Agile methodologies, testing, version control
-
-## 🛠️ Tech Stack
 
 **Languages:** Java, JavaScript, Python, C#, C++, SQL  
 **Databases:** PostgreSQL, SQL  
