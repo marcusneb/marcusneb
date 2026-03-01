@@ -14,7 +14,6 @@ I find day-to-day problems and build the tools to solve them.
 
 ## 🚀 Projects
 - 🏘️ **Cloverville** - Sustainable village management system | `Java`
-- 📱 **StudyFlow** - Smart study planner web app | `React.js` `Node.js`
 - 🤖 **Discord Project Bot** - Team organization bot | `Python`
 
 ---
