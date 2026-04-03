@@ -18,4 +18,4 @@ I find day-to-day problems and build the tools to solve them.
 
 ---
 
-📫 marcusdavid.s.muresan@gmail.com · [LinkedIn](https://www.linkedin.com/in/marcus-muresan-58aa66377/) · Portfolio coming soon
+📫 marcusdavid.s.muresan@gmail.com · [LinkedIn](https://www.linkedin.com/in/marcus-muresan-58aa66377/) · marcusmuresan.xyz
