@@ -5,7 +5,7 @@ I find day-to-day problems and build the tools to solve them.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 **Languages:** Java · JavaScript · C++
 **Web:** HTML · CSS3  
 **Currently Learning:** React.js · Node.js · PostgreSQL
