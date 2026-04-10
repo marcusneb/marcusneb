@@ -1,4 +1,4 @@
-# Hi, I'm Marcus Muresan 👋
+# Hi, I'm Marcus Muresan 
 
 Software Engineering Student @ VIA University College, Denmark  
 I find day-to-day problems and build the tools to solve them.
@@ -12,10 +12,10 @@ I find day-to-day problems and build the tools to solve them.
 
 ---
 
-## 🚀 Projects
-- 🏘️ **Cloverville** - Sustainable village management system | `Java`
-- 🤖 **Discord Project Bot** - Team organization bot | `Python`
+##  Projects
+-  **Cloverville** - Sustainable village management system | `Java`
+-  **Discord Project Bot** - Team organization bot | `Python`
 
 ---
 
-📫 marcusdavid.s.muresan@gmail.com · [LinkedIn](https://www.linkedin.com/in/marcus-muresan-58aa66377/) · marcusmuresan.xyz
+ marcusdavid.s.muresan@gmail.com · [LinkedIn](https://www.linkedin.com/in/marcus-muresan-58aa66377/) · marcusmuresan.xyz
